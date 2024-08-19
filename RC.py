@@ -4,4 +4,4 @@
 
 import os
 import EEE
-EEE.loging()
+EEE.loging.()
